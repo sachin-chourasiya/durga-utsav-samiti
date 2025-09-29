@@ -1,0 +1,1 @@
+export default function Empty(){ return <div>No data</div> }
